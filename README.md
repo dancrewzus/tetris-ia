@@ -1,11 +1,10 @@
 # Juego Tetris con Agente de Aprendizaje por Refuerzo
-- **Universidad Nacional Experimental de Guayana**
-- **Materia:** Inteligencia Artificial
-- **Desarrollado por:** Daniel Rodríguez
-- **CI:** V-19.333.348
 
 ## Introducción
 Este informe documenta el desarrollo de un juego de Tetris implementado en Python, junto con un Agente de Aprendizaje por Refuerzo (RL). La combinación de estos elementos permite explorar la aplicación de técnicas de inteligencia artificial en un entorno de juego clásico. Se describen los componentes clave del juego, la lógica del agente y la interfaz de usuario. Además, se detallan los requisitos, las instrucciones para la ejecución y se presentan conclusiones sobre el proyecto.
+<p align="center">
+  <a href="https://github.com/dancrewzus/tetris-ia" target="blank"><img src="https://raw.githubusercontent.com/dancrewzus/tetris-ia/main/assets/tetris.jpg" width="200" alt="Tetris Image" /></a>
+</p>
 
 ## Objetivos del proyecto
 1. **Implementación del Juego Tetris:** Desarrollar una versión funcional del juego Tetris utilizando la biblioteca Pygame.
@@ -25,12 +24,17 @@ Asegúrese de tener instaladas las siguientes bibliotecas antes de ejecutar el j
 
 Puede instalar las bibliotecas faltantes usando el siguiente comando:
 
-`pip install pygame tensorflow numpy`
+```bash
+$ pip install pygame tensorflow numpy
+```
 
 ## Ejecución del Juego
 1. Descargue el código fuente del repositorio.
 2. Navegue a la carpeta del proyecto en la terminal.
-3. Ejecute el siguiente comando: `python main.py`
+3. Ejecute el siguiente comando: 
+```bash
+$ python main.py
+```
 
 ## Estructura del Proyecto
 El proyecto consta de tres partes principales:
@@ -100,3 +104,12 @@ Este proyecto sirve como ejemplo práctico de la integración de juegos, aprendi
 Espero que este informe proporcione una comprensión detallada de la implementación y funcionamiento del juego Tetris con un agente de aprendizaje por refuerzo. 
 
 **¡Diviértase explorando y mejorando el juego!**
+
+## Ponte en contacto
+
+- Desarrollador - [Daniel Rodríguez](https://www.instagram.com/dancrewzus)
+- Website - [https://dancrewzus.github.io/](https://dancrewzus.github.io/)
+
+## Licencia
+
+[MIT licensed](LICENSE).
